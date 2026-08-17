@@ -1,0 +1,25 @@
+conditional statements
+........................
+1.simpleif(one actn one cond)
+2.if else
+3.elif ladder(more than one cond)
+4.nested if(cond inside cond)
+.....................
+if cond:
+     #statements
+.....................
+if cond:
+     #stmts t
+else:
+     #stmts f
+.....................
+if cond1:
+      #s1
+elif cond2:
+      #s2
+......................
+if cond1: 
+     if cond2:
+     #stmts 
+elif cond:
+else
