@@ -1,0 +1,24 @@
+'''functions is nothing but a block of reusable code used to perform a specific task'''
+
+'''Instead of writing the same code again and again, we can put it inside a function and call 
+the function whenever we need it'''
+
+'''advantages/features :
+1.Code reusability – Write code once and use it many times.
+2.Avoid repetition – No need to write the same code repeatedly.
+3.Easy to understand – Large programs can be divided into smaller tasks.
+4.Easy debugging – Errors can be found more easily in smaller blocks.
+5.Easy maintenance – Changing one function can update its behavior everywhere.
+6.Saves time – We can call a function whenever required.
+7.Improves readability – The program becomes cleaner and organized.'''
+
+
+'''def greet():
+    print("Hello Yukthesh):
+greet()
+
+two type of functions:
+1.Bult-in function
+2.user defined function : user is gng to define'''
+
+
