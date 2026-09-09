@@ -1,0 +1,22 @@
+if depends on users action it is used with oops if not it is procedaral
+Four pillars of OOPs:
+1.Encapsulation:
+It means wrapping data and methods together inside a class, it allows us to control how data is accessed.
+ex: An ATM allows you to deposit or withdraw money but you cannot directly access the banks intrnak database
+it has public,private and protection
+main benifit: Data protection and controlled access
+
+2.Inheritance:
+It allows a child class to aquire properties and methods from a parent class
+ex:A child can inherit characteristics from their parent similarly a child class can inherit features from a parenyt class
+
+3.Polymorphism:
+It means "many forms". The same method name can be performed from different actions depending on the object.
+ex: The action "speak" is different for different people or animals. 
+A dog barks, a cat meows, and a human speaks.
+4.Abstraction:
+Abstraction means hiding unnecessary implementation details and showing only the required functionality
+ex: Real-world example:
+When you use a mobile phone, you press a button to make a call. You don't need to understand the internal electronic processes behind the call.
+
+Main benefit: Hides complexity and makes programs easier to use.
